@@ -1,4 +1,4 @@
-# Module 1: Pandas Fundamentals and Data Manipulation
+# Module 0: Pandas Fundamentals and Data Manipulation
 
 ## Overview
 This module contains 10 comprehensive exercises designed to help you master fundamental to advanced Pandas concepts. Each exercise builds upon previous ones, covering data manipulation, cleaning, analysis, and performance optimization.
