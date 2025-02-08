@@ -1,0 +1,25 @@
+# Core data manipulation and numerical libraries
+pandas==2.0.3
+numpy==1.24.2
+
+# Plotting and visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.0
+
+# Statistical analysis and time series
+scipy==1.10.1
+statsmodels==0.14.0
+scikit-learn==1.2.2
+
+# Parallel computing and large dataset handling (optional but recommended)
+dask[complete]==2023.3.2
+
+# Interactive notebooks and additional tools
+jupyter==1.0.0
+
+# Automated reporting / profiling (optional)
+pandas-profiling==3.6.3
+
+# PDF generation (optional, for advanced reporting use-cases)
+weasyprint==57.1
